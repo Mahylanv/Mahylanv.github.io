@@ -1,0 +1,72 @@
+/*scroll-behavior: smooth;*/
+
+
+header {
+	background-image: url('img/pres.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+	background-attachment: fixed;
+}
+
+main {
+	background-image: url('img/histoire.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+	background-attachment: fixed;
+}
+
+section {
+	background-image: url('img/personnages.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+	background-attachment: fixed;
+}
+
+#bouton {
+	background-color: white;
+}
+
+.navbar, footer {
+	background-color: black;
+}
+
+.padding {
+	padding: 300px 0;
+}
+
+img {
+ 	width: 200px;
+ }
+
+ .nav-link{
+ 	color: white;
+ }
+
+ h1 {
+ 	color: white;
+ 	font-size: 100px;
+ }
+
+ header img {
+ 	width: 100%;
+ }
+
+ main {
+ 	color: white;
+ }
+
+ h2 {
+ 	font-size: 40px;
+ }
+
+footer div {
+	display: flex;
+}
+
+footer img {
+	padding: 10% 0;
+	margin: auto;
+}
